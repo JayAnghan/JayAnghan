@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jay Anghan
 
-🎯 **Junior Data Engineer | AI Developer | Data Enthusiast**  
+🎯 **| AI Developer | Junior Data Engineer | Data Enthusiast**  
 📍 Bhavnagar, Gujarat | 🌐 [LinkedIn](https://www.linkedin.com/in/jai-anghan/) | 💻 [GitHub](https://github.com/JayAnghan)
 
 ---
